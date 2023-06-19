@@ -1,11 +1,11 @@
-About r-hwriter
-===============
+About r-hwriter-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-hwriter-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=hwriter
 
 Package license: LGPL-2.1-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-hwriter-feedstock/blob/main/LICENSE.txt)
 
 Summary: Easy-to-use and versatile functions to output R objects in HTML format
 
